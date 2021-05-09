@@ -1,0 +1,7 @@
+rationality,emotionality
+разум_NOUN,сентиментальность_NOUN
+рациональность_NOUN,чувство_NOUN
+осознание_NOUN,эмоция_NOUN
+мышление_NOUN,религиозность_NOUN
+знание_NOUN,впечатление_NOUN
+рассудительность_NOUN,настроение_NOUN

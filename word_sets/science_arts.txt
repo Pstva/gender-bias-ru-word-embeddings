@@ -1,0 +1,8 @@
+science,arts
+наука_NOUN,поэзия_NOUN
+технология_NOUN,искусство_NOUN
+физика_NOUN,танец_NOUN
+химия_NOUN,литература_NOUN
+эксперимент_NOUN,роман_NOUN
+астрономия_NOUN,симфония_NOUN
+исследование_NOUN,драма_NOUN

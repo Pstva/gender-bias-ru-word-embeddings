@@ -1,0 +1,8 @@
+math,arts
+математика_NOUN,поэзия_NOUN
+алгебра_NOUN,искусство_NOUN
+геометрия_NOUN,танец_NOUN
+уравнение_NOUN,литература_NOUN
+вычисление_NOUN,роман_NOUN
+число_NOUN,симфония_NOUN
+сложение_NOUN,драма_NOUN
